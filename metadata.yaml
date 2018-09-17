@@ -1,5 +1,5 @@
 _repo: L-art-ochlocratique-salons-de-1882-de-1883_52288
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   commentator:
     agent_name: Barbey d'Aurevilly, J. (Jules)
@@ -14,6 +14,9 @@ contributor:
     gutenberg_agent_id: '5245'
     url: http://www.gutenberg.org/2009/agents/5245
     wikipedia: http://en.wikipedia.org/wiki/Jules_Amédée_Barbey_d'Aurevilly
+covers:
+- cover_type: archival
+  image_path: 52288-h/images/cover.jpg
 creator:
   author:
     agent_name: Péladan, Joséphin
@@ -29,6 +32,8 @@ creator:
     gutenberg_agent_id: '46762'
     url: http://www.gutenberg.org/2009/agents/46762
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/52288#L-art-ochlocratique-salons-de-1882-de-1883
 gutenberg_bookshelf: FR Beaux-Arts
 gutenberg_issued: '2016-06-09'
 gutenberg_type: Text
